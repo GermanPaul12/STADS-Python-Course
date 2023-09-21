@@ -23,7 +23,7 @@ second_digit = l + o + v + e
 
 love_score = first_digit + second_digit
 
-if the love score is under 10 or greater than 90 then print the score and the phrase "you go together like coke and mentos"
-if the love is between inclusive 40 and inclusive 50 then print the score and the phrase "you are mid together"
-if the love score is 69 then print the score and the phrase "you are like ying and yang"
-else print the score and the phrase "you are like bonnie and clyde"
+- if the love score is under 10 or greater than 90 then print the score and the phrase "you go together like coke and mentos"
+- if the love is between inclusive 40 and inclusive 50 then print the score and the phrase "you are mid together"
+- if the love score is 69 then print the score and the phrase "you are like ying and yang"
+- else print the score and the phrase "you are like bonnie and clyde"
