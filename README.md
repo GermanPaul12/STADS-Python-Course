@@ -8,7 +8,14 @@ Check out the video tutorials:
 
 Useful links for the setup:
 
-1. [Download VS Code](https://code.visualstudio.com/Download "Download VS Code")
-2. [Download Python](https://www.python.org/downloads/ "Download Python")
-    * If it's your first time installing Python, make sure to check the box "Add Python to PATH" which will show up as a checkbox in the installation process. This is necessary so you can launch and access python from the command line.
-    * Check your installation by opening the command line and typing `python --version`. If you get an error, try restarting your computer or reinstalling Python.
+1. [Download Python](https://docs.python-guide.org/starting/installation/ "Properly installing Python Guide")
+2. Installing VS Code
+    2. 1. [VS Code Mac](https://formulae.brew.sh/cask/visual-studio-code "Installing VS Code for Mac")
+        2. 1. 1. or just type in your terminal `brew install --cask visual-studio-code`
+    2. 2. [VS Code Windows](https://community.chocolatey.org/packages/vscode "Installing VS Code for Windows")
+        2. 2. 1. or just type in your admin terminal `choco install vscode`
+3. Installing Git
+    3. 1. [Git Mac](https://formulae.brew.sh/formula/git "Installing Git for Mac")
+        3. 1. 1. or just type in your admin terminal `brew install git`
+    3. 2. [Git Windows](https://community.chocolatey.org/packages/git "Installing Git for Windows")
+        3. 2. 1. or just type in your admin terminal `choco install git`
