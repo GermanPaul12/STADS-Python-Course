@@ -11,5 +11,7 @@ if love_score <= 10 or love_score >= 90:
     print(f"Your love score is {love_score}%, you go together like coca cola and mentos")
 elif love_score > 10 and love_score < 60:
     print(f"Your love score is {love_score}%, you are mid together")
+elif love_score == 69:
+    print(f"Your love score is {love_score}%, you are like ying and yang.")    
 else:
-    print(f"Your love score is {love_score}%, you are like bonnie and cylde.")
+    print(f"Your love score is {love_score}%, you are like bonnie and clyde.")
