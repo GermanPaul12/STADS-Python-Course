@@ -37,44 +37,44 @@
 ## VS Code Recommended Extensions
 
 - Name: autoDocstring - Python Docstring Generator
-    Id: njpwerner.autodocstring
-    Description: Generates python docstrings automatically
-    Version: 0.6.1
-    Publisher: Nils Werner
-    (VS Marketplace Link:) [https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring]
+  - Id: njpwerner.autodocstring
+  - Description: Generates python docstrings automatically
+  - Version: 0.6.1
+  - Publisher: Nils Werner
+  - [VS Marketplace Link](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 - Name: Better Comments
-    Id: aaron-bond.better-comments
-    Description: Improve your code commenting by annotating with alert, informational, TODOs, and more!
-    Version: 3.0.2
-    Publisher: Aaron Bond
-    (VS Marketplace Link:) [https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments]
+  - Id: aaron-bond.better-comments
+  - Description: Improve your code commenting by annotating with alert, informational, TODOs, and more!
+  - Version: 3.0.2
+  - Publisher: Aaron Bond
+  - [VS Marketplace Link:](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - Name: Jupyter
-    Id: ms-toolsai.jupyter
-    Description: Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.
-    Version: 2023.8.1002501831
-    Publisher: Microsoft
-    (VS Marketplace Link:) [https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter]
+  - Id: ms-toolsai.jupyter
+  - Description: Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.
+  - Version: 2023.8.1002501831
+  - Publisher: Microsoft
+  - [VS Marketplace Link:](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 - Name: Pylance
-    Id: ms-python.vscode-pylance
-    Description: A performant, feature-rich language server for Python in VS Code
-    Version: 2023.9.20
-    Publisher: Microsoft
-    (VS Marketplace Link:) [https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance]
+  - Id: ms-python.vscode-pylance
+  - Description: A performant, feature-rich language server for Python in VS Code
+  - Version: 2023.9.20
+  - Publisher: Microsoft
+  - [VS Marketplace Link:](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 - Name: Python
-    Id: ms-python.python
-    Description: IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), code formatting, refactoring, unit tests, and more.
-    Version: 2023.16.0
-    Publisher: Microsoft
-    (VS Marketplace Link:) [https://marketplace.visualstudio.com/items?itemName=ms-python.python]
+  - Id: ms-python.python
+  - Description: IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), code formatting, refactoring, unit tests, and more.
+  - Version: 2023.16.0
+  - Publisher: Microsoft
+  - [VS Marketplace Link:](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - Name: Python Indent
-    Id: KevinRose.vsc-python-indent
-    Description: Correct Python indentation
-    Version: 1.18.0
-    Publisher: Kevin Rose
-    (VS Marketplace Link:) [https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent]
+  - Id: KevinRose.vsc-python-indent
+  - Description: Correct Python indentation
+  - Version: 1.18.0
+  - Publisher: Kevin Rose
+  - [VS Marketplace Link:](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)
 - Name: vscode-icons
-    Id: vscode-icons-team.vscode-icons
-    Description: Icons for Visual Studio Code
-    Version: 12.5.0
-    Publisher: VSCode Icons Team
-    (VS Marketplace Link:) [https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons]
+  - Id: vscode-icons-team.vscode-icons
+  - Description: Icons for Visual Studio Code
+  - Version: 12.5.0
+  - Publisher: VSCode Icons Team
+  - [VS Marketplace Link:](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
