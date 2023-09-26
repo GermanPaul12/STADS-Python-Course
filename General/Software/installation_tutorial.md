@@ -22,5 +22,5 @@
 8. Execute `brew install python` to install python
 9. For git you can use `brew install git`
 10. For vs code you can use `brew install --cask visual-studio-code`
-11. Check your installation with `python --version` and `pip --version` you should see version numbers
+11. Check your installation with `python3 --version` and `pip --version` you should see version numbers
 12. Also `git --version` and `code --version` should show version numbers
