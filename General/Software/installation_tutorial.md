@@ -11,3 +11,16 @@
 7. Execute `choco install vscode` to get vs code
 
 ## Mac OS
+
+1. `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"` execute this line in terminal
+2. After that go on the mac symbol in the top left corner and click on "About this Mac" under macOS you can see which OS version you have.
+3. If the version is 10.12 or smaller then add `export PATH=/usr/local/bin:/usr/local/sbin:$PATH` this line to your `~/.profile`
+4. Else add `export PATH="/usr/local/opt/python/libexec/bin:$PATH"` this line to your `~/.profile`
+5. You can open the `~/.profile` with `nano ~/.profile` in the terminal
+6. After you have added the line press `command + o` followed by `enter` and then `commmand + x`
+7. Check that everything has worked with `brew --version`
+8. Execute `brew install python` to install python
+9. For git you can use `brew install git`
+10. For vs code you can use `brew install --cask visual-studio-code`
+11. Check your installation with `python --version` and `pip --version` you should see version numbers
+12. Also `git --version` and `code --version` should show version numbers
