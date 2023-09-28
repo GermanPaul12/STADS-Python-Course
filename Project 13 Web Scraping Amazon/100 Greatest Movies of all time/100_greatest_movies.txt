@@ -1,0 +1,100 @@
+1 The Shawshank Redemption
+2 Titanic
+3 Star Wars Episode IV: A New Hope
+4 The Godfather
+5 Pulp Fiction
+6 Jaws
+7 Star Wars Episode V: The Empire Strikes Back
+8 Gone with the Wind
+9 Back to the Future
+10 Forrest Gump
+11 The Dark Knight
+12 Avengers: Endgame
+13 Love Actually
+14 Raiders of the Lost Ark
+15 The Sound of Music
+16 Dirty Dancing
+17 Casablanca
+18 Goodfellas
+19 Blade Runner
+20 The Lord of the Rings: The Return of the King
+21 Avatar
+22 Inception
+23 E.T. the Extra-Terrestrial
+24 Parasite
+25 Lord of the Rings: The Fellowship of the Ring
+26 Jurassic Park
+27 The Green Mile
+28 The Matrix
+29 2001: A Space Odyssey
+30 Grease
+31 Terminator 2: Judgement Day
+32 Saving Private Ryan
+33 Fight Club
+34 Alien
+35 The Princess Bride
+36 Apocalypse Now
+37 Citizen Kane
+38 The Godfather Part 2
+39 Schindler's List
+40 Gladiator
+41 Die Hard
+42 Top Gun
+43 Interstellar
+44 Pretty Woman
+45 Aliens
+46 The Wizard of Oz
+47 Ghostbusters
+48 1917
+49 One Flew Over the Cuckoo's Nest
+50 Silence of the Lambs
+51 The Blues Brothers
+52 Braveheart
+53 The Shining
+54 Lawrence of Arabia
+55 To Kill a Mockingbird
+56 Avengers: Infinity War
+57 Ben Hur
+58 Taxi Driver
+59 Ferris Bueller's Day Off
+60 Rocky
+61 The Notebook
+62 The Breakfast Club
+63 Hunt for the Wilderpeople
+64 Stand By Me
+65 The Lord of the Rings: Two Towers
+66 Good Will Hunting
+67 Ghost
+68 Indiana Jones & the Last Crusade
+69 Eternal Sunshine of the Spotless Mind
+70 Mad Max
+71 Frozen
+72 Mad Max: Fury Road
+73 The Rocky Horror Picture Show
+74 Psycho
+75 Spirited Away
+76 Toy Story
+77 The Greatest Showman
+78 The Lion King
+79 Rocketman
+80 The Usual Suspects
+81 The Castle
+82 The Terminator
+83 3 Godfathers
+84 Joker
+85 Donny Darko
+86 Dead Poets Society
+87 No Country for Old Men
+88 The Avengers
+89 La La Land
+90 Blade Runner 2049
+91 The Goonies
+92 Whiplash
+93 There Will Be Blood
+94 Monty Python's Life of Brian
+95 Vertigo
+96 The Fifth Element
+97 Spider-Man: Far From Home
+98 Moulin Rouge!
+99 Star Wars Episode III: Revenge of the Sith
+100 Kill Bill Volume 1
