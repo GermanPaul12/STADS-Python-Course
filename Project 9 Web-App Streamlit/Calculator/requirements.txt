@@ -1,0 +1,13 @@
+ipywidgets
+numpy
+pandas
+streamlit
+voila
+plotly
+matplotlib
+graphviz
+seaborn
+altair
+Pillow
+requests
+ipyleaflet
