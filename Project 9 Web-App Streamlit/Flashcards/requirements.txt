@@ -1,4 +1,0 @@
-pyparsing
-pandas
-streamlit-nightly
-openpyxl
