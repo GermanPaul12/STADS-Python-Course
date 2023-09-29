@@ -1,9 +1,9 @@
 import streamlit as st
 from pathlib import Path
 
-st.set_page_config(page_title='Ressources for the Python course 🐍',page_icon='✔️')
+st.set_page_config(page_title='Resources for the Python course 🐍',page_icon='✔️')
 
-st.title("Ressources for the Python course 🐍")
+st.title("Resources for the Python course 🐍")
 st.write("----------")
 def read_markdown_file(markdown_file):
     return Path(markdown_file).read_text()

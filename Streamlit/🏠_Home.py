@@ -28,17 +28,30 @@ with st.container():
     st.header('Contributers')
     #col1,col2,col3,col4 = st.columns(4)
     col1,col2 = st.columns(2)
-    col3,col4 = st.columns(2)
     
     with col1:
         GP_image = 'https://raw.githubusercontent.com/GermanPaul12/Streamlit-and-Voila-Website-Fortgeschrittene-Programmierung/master/assets/img/GP_Github.png'
         st.image(GP_image,use_column_width=True, caption='German Paul')
     with col2:
         pass
-    with col3:
-        pass
-    with col4:
-        pass
+    
+with st.container():
+    st.write('---')
+    
+    st.header('Social Media')
+    #col1,col2,col3,col4 = st.columns(4)
+    col1,col2 = st.columns(2)
+    
+    with col1:
+        st.markdown('''
+        <a href="https://github.com/GermanPaul12">
+        <img src="Streamlit/assets/github_logo.png" />
+        </a>''',
+        unsafe_allow_html=True
+        )
+        
+    with col2:
+        st.markdown("[![Click me](Streamlit/assets/github_logo.png)](https://github.com/GermanPaul12)")
 
 
         

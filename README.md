@@ -1,6 +1,6 @@
 # STADS Python Course
 
-This repository contains the course material for the Python course at STADS (Students Association for Data Analysis and Statistics) at the University of Mannheim.
+This repository contains the course material for the Python course for STADS (Students Association for Data Analysis and Statistics) and the University of Mannheim.
 
 ## First steps
 
