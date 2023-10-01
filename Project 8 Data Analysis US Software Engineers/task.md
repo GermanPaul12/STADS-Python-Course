@@ -2,4 +2,6 @@
 
 Read the csv and analyse the data. You may need to clean it. Visualize your findings.
 
-Objective: Answer the question if remote jobs in full-time pay more money than non-remote jobs in full-time.
+Objective 1: What are the top 3 most wanted titles companies search for?
+Objective 2: Compare the average rating of remote and not remote jobs
+Objective 3 only for advanced programmers: Answer the question if remote jobs in full-time pay more money than non-remote jobs in full-time.
