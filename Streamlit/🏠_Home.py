@@ -38,7 +38,7 @@ with st.container():
     col1,col2 = st.columns(2)
     
     with col1:
-        st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/github.png?raw=True)](https://github.com/GermanPaul12/)")
+        st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/git.png?raw=True)](https://github.com/GermanPaul12/)")
 
     with col2:
         st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/linkedin.png?raw=True)](https://www.linkedin.com/in/germanpaul12/)")
