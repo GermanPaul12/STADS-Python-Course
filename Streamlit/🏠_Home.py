@@ -35,14 +35,8 @@ with st.container():
     st.write('---')
     
     st.header('Social Media')
-    #col1,col2,col3,col4 = st.columns(4)
-    col1,col2 = st.columns(2)
-    
-    with col1:
-        badge(type="github", name="GermanPaul12")
-
-    with col2:
-        st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/linkedin.png?raw=True)](https://www.linkedin.com/in/germanpaul12/)")
+    badge(type="github", name="GermanPaul12")
+    st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/linkedin.png?raw=True)](https://www.linkedin.com/in/germanpaul12/)")
 
 
 ''' [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/GermanPaul12/STADS-Python-Course) '''         
