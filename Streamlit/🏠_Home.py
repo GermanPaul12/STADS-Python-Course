@@ -42,4 +42,7 @@ with st.container():
 
     with col2:
         st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/linkedin.png?raw=True)](https://www.linkedin.com/in/germanpaul12/)")
-        
+
+
+''' [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/GermanPaul12/STADS-Python-Course) '''         
+st.markdown("<br>",unsafe_allow_html=True)
