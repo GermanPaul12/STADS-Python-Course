@@ -45,10 +45,7 @@ with st.container():
     with col1:
         st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/github_logo.png?raw=True)](https://github.com/GermanPaul12/)")
 
-        
     with col2:
         # https://www.linkedin.com/in/germanpaul12/
-        st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/linkedin_logo.png?raw=True)](https://www.linkedin.com/in/germanpaul12/)")
-
-
+        st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/linkedin_logo.png?raw=True)](https://www.linkedin.com/in/germanpaul12/){ width: 200px; }")
         
