@@ -1,9 +1,4 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
-from PIL import Image
-from pathlib import Path
-import os
 
 # PageConfig
 st.set_page_config(page_title='Homepage',page_icon='🏠')
@@ -46,6 +41,5 @@ with st.container():
         st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/github.png?raw=True)](https://github.com/GermanPaul12/)")
 
     with col2:
-        # https://www.linkedin.com/in/germanpaul12/
         st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/linkedin.png?raw=True)](https://www.linkedin.com/in/germanpaul12/)")
         
