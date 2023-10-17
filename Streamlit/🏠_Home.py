@@ -1,4 +1,5 @@
 import streamlit as st
+from streamlit_extras.badges import badge
 
 # PageConfig
 st.set_page_config(page_title='Homepage',page_icon='🏠')
@@ -38,7 +39,7 @@ with st.container():
     col1,col2 = st.columns(2)
     
     with col1:
-        st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/github.png?raw=True)](https://github.com/GermanPaul12/)")
+        badge(type="github", name="GermanPaul12")
 
     with col2:
         st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/linkedin.png?raw=True)](https://www.linkedin.com/in/germanpaul12/)")
