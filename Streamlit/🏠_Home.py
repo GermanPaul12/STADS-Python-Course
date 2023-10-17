@@ -43,12 +43,8 @@ with st.container():
     col1,col2 = st.columns(2)
     
     with col1:
-        st.markdown('''
-        <a href="https://github.com/GermanPaul12">
-        <img src="Streamlit/assets/github_logo.png" />
-        </a>''',
-        unsafe_allow_html=True
-        )
+        GitHub_Image = "![GitHub Link](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/github_logo.png?raw=true)"
+        st.image(GitHub_Image,use_column_width=True, caption=st.markdown("![GitHub Link](https://github.com/GermanPaul12/)"))
         
     with col2:
         st.markdown("[![Click me](Streamlit/assets/github_logo.png)](https://github.com/GermanPaul12)")
