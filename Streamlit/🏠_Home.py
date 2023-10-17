@@ -47,7 +47,8 @@ with st.container():
         st.image(GitHub_Image,use_column_width=True, caption=st.markdown("![GitHub Link](https://github.com/GermanPaul12/)"))
         
     with col2:
-        st.markdown("[![Click me](Streamlit/assets/github_logo.png)](https://github.com/GermanPaul12)")
+        # https://www.linkedin.com/in/germanpaul12/
+        st.markdown("[![Foo](https://github.com/GermanPaul12/STADS-Python-Course/blob/main/Streamlit/assets/linkedin_logo.png?raw=True)](https://www.linkedin.com/in/germanpaul12/)")
 
 
         
