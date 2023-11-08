@@ -40,7 +40,7 @@ def factorial(n):
         return 1
     else:
         return n * factorial(n-1)
-n=int(input("Input a number to compute the factiorial : "))
+#n=int(input("Input a number to compute the factiorial : "))
 #print(factorial(n))
 
 # 6
@@ -141,9 +141,12 @@ def ispangram(str1, alphabet=string.ascii_lowercase):
 #print ( ispangram('The quick brown fox jumps over the lazy dog')) 
 
 # 15
-items=[n for n in input().split('-')]
-items.sort()
-#print('-'.join(items))
+def hyphen_words(words):
+    items=[n for n in words.split('-')]
+    items.sort()
+    return '-'.join(items)
+
+#print(hyphen_words('Quick-Brown-Fox-Jumps-Over-The-Lazy-Dog'))
 
 # 16
 def printValues():
@@ -154,5 +157,8 @@ def printValues():
 		
 #printValues()
 
+def subract_all(*args):
+    return args[0] - sum(args[1:])
 
+#print(subract_all(100, 1,2,3,4,4,5,6,3,2,2,4,5,5,3))
 

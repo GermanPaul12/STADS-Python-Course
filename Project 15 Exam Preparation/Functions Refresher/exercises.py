@@ -66,7 +66,7 @@
 # For example : "The quick brown fox jumps over the lazy dog"
 
 
-# 15. Write a Python program that accepts a hyphen-separated sequence of words as input and prints the words in a hyphen-separated sequence after sorting them alphabetically.
+# 15. Write a Python function that accepts a hyphen-separated sequence of words as input and returns the words in a hyphen-separated sequence after sorting them alphabetically.
 # Sample Items : green-red-yellow-black-white
 # Expected Result : black-green-red-white-yellow
 
@@ -74,4 +74,4 @@
 # 16. Write a Python function to create and print a list where the values are the squares of numbers between 1 and 30 (both included).
 
 
-
+# 17. Define a Python function which takes unlimted parameters as input and returns the result of the first number subtracted by all other numbers
