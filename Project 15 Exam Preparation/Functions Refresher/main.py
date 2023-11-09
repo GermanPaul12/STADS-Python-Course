@@ -37,3 +37,16 @@ def f(num, *args, **kwargs):
 
 def summe(*args):
     return sum(args)
+
+
+# A function within a class is called a method
+# class called Laptop
+class Laptop:
+    # konstruktor which doesn't accept any arguments
+    def __init__(self):
+        pass
+    
+    # method called `start_vs_code`
+    def start_vs_code(self):
+        print("Starting VS Code")
+        
